@@ -66,6 +66,7 @@ public class Main {
         return isDigits(s, index + 1);
     }
 
+
     // Task 9
     public static int countChars(String s) {
         if (s.equals("")) return 0;
